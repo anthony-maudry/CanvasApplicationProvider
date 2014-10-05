@@ -1,5 +1,6 @@
-# CanvasApplicationProvider
-# =========================
+# Canvas Application Provider
 
-A JS framework to create canvas interfaces.
 
+CAP is a JS framework imaginated to create canvas interfaces.
+
+Still in devellopment
